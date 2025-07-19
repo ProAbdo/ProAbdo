@@ -32,6 +32,9 @@
 ### 🛠️ Languages & Tools:
 
 <p align="left">
+### 🛠️ Languages & Tools:
+
+<p align="left">
   <!-- Languages -->
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -44,7 +47,7 @@
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
   <a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
-  <a href="https://docs.celeryq.dev/en/stable/"><img src="https://cdn.worldvectorlogo.com/logos/celery-1.svg" alt="Celery" width="40" height="40"/></a>
+  <a href="https://docs.celeryq.dev/en/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-plain.svg" alt="Celery" width="40" height="40" onerror="this.onerror=null; this.src='https://cdn.worldvectorlogo.com/logos/celery-1.svg'"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
 
   <!-- Frontend -->
@@ -63,7 +66,9 @@
 
   <!-- Testing -->
   <a href="https://docs.pytest.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Pytest" width="40" height="40"/></a>
-  <a href="https://www.cypress.io/"><img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="Cypress" width="40" height="40"/></a>
+  <a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" alt="Cypress" width="40" height="40"/></a>
+</p>
+
 
 </p>
 
