@@ -47,7 +47,7 @@
 ### 📌 Featured Projects
 
 - 🔊 **Image Captioning for Blind People** – CNN + LSTM app that speaks image contents  
-- 🎓 **Udemy Clone** – Responsive e-learning site using ReactJS and Django  
+- 🎓 **Udemy Clone** – Responsive e-learning site using ReactJS
 - 🛍️ **Sales App** – Sales management desktop system with C# & MySQL  
 - 🤖 **AI Chatbot Creator** – OpenAI-based chatbot builder using Django, Celery, Pinecone, Redis
 ---
