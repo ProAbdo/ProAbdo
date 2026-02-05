@@ -6,6 +6,7 @@
 I specialize in building **robust backend architectures**, designing **async pipelines**, and writing **clean, testable code**.
 
 🎯 Passionate about performance, correctness, and system design.
+
 💡 ICPC mentor & competitive programmer (2000+ problems solved).
 
 ---
