@@ -71,14 +71,6 @@ I am also a dedicated **Competitive Programmer**, having solved **2000+ problems
 
 ---
 
-### 💼 Professional Impact
-* **LLM Integration**: Built custom bot learning processes using **Django signals, Celery, and Pinecone**.
-* **Security Architecture**: Implemented **OAuth2 Proxy** and **Nginx** configurations to secure staging environments.
-* **Scalable Backends**: Developed backend systems for **Real-Time Strategy (RTS)** games, managing complex database schemas.
-* **Full-Stack Versatility**: Contributed to 40% of frontend development in professional LLM projects while managing backend operations.
-
----
-
 ### 📊 GitHub Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
