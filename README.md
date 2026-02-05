@@ -2,6 +2,11 @@
 
 ### Backend Engineer • Distributed Systems • Real-Time Systems
 
+### 🚀 Summary
+
+Mid-level **Backend Engineer** with **2+ years of production experience** building scalable, event-driven systems.
+Strong focus on **backend architecture**, **async processing**, and **real-time services**, with solid competitive programming background.
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres,mysql,mongodb,redis,rabbitmq,docker,nginx" />
 </p>
@@ -10,8 +15,8 @@
 
 ## 🧠 What I Do
 
-* Build **scalable backend systems**
-* Design **event-driven & async architectures**
+* Design **scalable backend architectures**
+* Build **event-driven & async pipelines**
 * Develop **real-time services** (WebSockets, SSE)
 * Write **clean, testable, production-ready code**
 
@@ -64,14 +69,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=transparent&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=transparent&cache_seconds=1800" height="150" />
 </p>
 
 ---
 
 ## 🌐 Connect
+
 * **LinkedIn:** [https://linkedin.com/in/YOUR_LINK](https://linkedin.com/in/YOUR_LINK)
+* **Codeforces:** [https://codeforces.com/profile/YOUR_HANDLE](https://codeforces.com/profile/YOUR_HANDLE)
 
 ---
 
