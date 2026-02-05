@@ -5,29 +5,22 @@
 ### 🚀 Summary
 
 Mid-level **Backend Engineer** with **2+ years of production experience** building scalable, event-driven systems.
-Strong focus on **backend architecture**, **async processing**, and **real-time services**, with solid competitive programming background.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres,mysql,mongodb,redis,rabbitmq,docker,nginx" />
-</p>
+Strong in **backend architecture**, **async processing**, **messaging systems**, and **real-time communication**, with a solid competitive programming background.
 
 ---
 
-## 🧠 What I Do
+## 🛠️ Technologies & Tools
 
-* Design **scalable backend architectures**
-* Build **event-driven & async pipelines**
-* Develop **real-time services** (WebSockets, SSE)
-* Write **clean, testable, production-ready code**
-
----
-
-## 🛠️ Core Technologies
-
-### 🧩 Backend
+### 🧩 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
 ### 🗄️ Databases
@@ -36,22 +29,34 @@ Strong focus on **backend architecture**, **async processing**, and **real-time 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### 🔄 Async & Messaging
+### 🔄 Async, Messaging & Real-Time
 
 <p>
   <img src="https://skillicons.dev/icons?i=redis,rabbitmq" />
 </p>
 
-### ⚙️ Infrastructure & Security
+### 🧱 Infrastructure & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx" />
 </p>
 
-### 🎨 Frontend (Support)
+### 🔐 Security & Auth
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular" />
+  <img src="https://skillicons.dev/icons?i=oauth" />
+</p>
+
+### 🎨 Frontend (Supporting)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
+</p>
+
+### 🧰 Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,bash" />
 </p>
 
 ---
@@ -60,6 +65,7 @@ Strong focus on **backend architecture**, **async processing**, and **real-time 
 
 * Production **LLM-powered chatbot systems**
 * **Real-time RTS game backend**
+* Event-driven pipelines using Celery, Redis & RabbitMQ
 * OAuth-secured, containerized infrastructures
 * **2000+** competitive programming problems solved
 * ICPC contestant & mentor
@@ -68,10 +74,12 @@ Strong focus on **backend architecture**, **async processing**, and **real-time 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=transparent&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=transparent&cache_seconds=1800" height="150" />
-</p>
+<div align="center">
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</div>
 
 ---
 
@@ -85,3 +93,4 @@ Strong focus on **backend architecture**, **async processing**, and **real-time 
 <p align="center">
   <i>Backend first. Scalability always.</i>
 </p>
+
