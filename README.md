@@ -2,7 +2,7 @@
 
 ### 🚀 Mid-Level Software Engineer | Backend Specialist | Competitive Programmer
 
-I am a **Software Engineer** with over **2 years of professional experience** building high-performance backend systems and AI-integrated solutions. My expertise ranges from architecting real-time strategy (RTS) game backends to developing complex LLM-powered chatbot ecosystems using modern tech stacks.
+I am a **Software Engineer** with over **2 years of professional experience** building high-performance backend systems and AI-integrated solutions. My expertise spans from to developing complex LLM-powered chatbot ecosystems using modern tech stacks.
 
 Beyond engineering, I am a dedicated **Competitive Programmer** with over **2,000 problems solved** across various platforms. I have reached the semi-finals of the **Facebook Hacker Cup** and maintain a deep focus on scalability, security, and algorithmic optimization.
 
@@ -58,20 +58,10 @@ Beyond engineering, I am a dedicated **Competitive Programmer** with over **2,00
 ---
 
 ### 🏆 Competitive Programming & Achievements
-> "Optimization is not just a task; it's a mindset."
-
 * **Facebook Hacker Cup 2021**: Qualified for Round 2 (Semi-finalist).
 * **ICPC Enthusiast**: Participated in **ECPC** and **ACPC**.
 * **Problem Solver**: Solved over **2,000 algorithmic problems** on various judges like Codeforces.
 * **Mentor**: Guided junior problem solvers at **ICPC-SHAC**.
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="ProAbdo's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
@@ -80,5 +70,3 @@ Beyond engineering, I am a dedicated **Competitive Programmer** with over **2,00
 <a href="https://www.linkedin.com/in/abdurrahman-hussein"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abdurrahmanhussein500@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-"Consistency and curiosity are the primary keys to growth."
