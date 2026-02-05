@@ -8,7 +8,7 @@ Beyond engineering, I am a dedicated **Competitive Programmer** with over **2,00
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming Languages
 <p align="left">
