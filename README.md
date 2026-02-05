@@ -2,9 +2,9 @@
 
 ### 🚀 Mid-Level Software Engineer | Backend Specialist | Competitive Programmer
 
-[cite_start]I am a **Software Engineer** with over **2 years of professional experience** building high-performance backend systems and AI-driven solutions[cite: 22, 9]. [cite_start]My expertise spans from architecting real-time strategy game backends to developing complex LLM-powered chatbot ecosystems[cite: 8, 23, 25].
+I am a **Software Engineer** with over **2 years of professional experience** building high-performance backend systems and AI-driven solutions. My expertise spans from architecting real-time strategy game backends to developing complex LLM-powered chatbot ecosystems.
 
-[cite_start]I am also a dedicated **Competitive Programmer**, having solved **2000+ problems** across various platforms and reaching the semi-finals of **Facebook Hacker Cup**[cite: 54, 56]. [cite_start]I specialize in Python and Node.js ecosystems, focusing on scalability, security, and clean architecture[cite: 64, 66, 69].
+I am also a dedicated **Competitive Programmer**, having solved **2000+ problems** across various platforms and reaching the semi-finals of **Facebook Hacker Cup**. I specialize in Python and Node.js ecosystems, focusing on scalability, security, and clean architecture.
 
 ---
 
@@ -64,25 +64,25 @@
 ### 🏆 Competitive Programming & Achievements
 > "Optimization is not just a task; it's a mindset."
 
-* [cite_start]**Facebook Hacker Cup 2021**: Qualified for Round 2 (Semi-finalist)[cite: 54].
-* [cite_start]**ICPC Enthusiast**: Participated in **ECPC** and **ACPC**[cite: 52, 53].
-* [cite_start]**Problem Solver**: Solved over **2,000 algorithmic problems** on various judges like Codeforces[cite: 56].
-* [cite_start]**Mentor**: Guided the next generation of problem solvers at **ICPC-SHAC**[cite: 62].
+* **Facebook Hacker Cup 2021**: Qualified for Round 2 (Semi-finalist).
+* **ICPC Enthusiast**: Participated in **ECPC** and **ACPC**.
+* **Problem Solver**: Solved over **2,000 algorithmic problems** on various judges like Codeforces.
+* **Mentor**: Guided the next generation of problem solvers at **ICPC-SHAC**.
 
 ---
 
 ### 💼 Professional Impact
-* [cite_start]**LLM Integration**: Built custom bot learning processes using **Django signals, Celery, and Pinecone**[cite: 25].
-* [cite_start]**Security Architecture**: Implemented **OAuth2 Proxy** and **Nginx** configurations to secure staging environments[cite: 26].
-* [cite_start]**Scalable Backends**: Currently developing backend systems for **Real-Time Strategy (RTS)** games[cite: 8, 10].
-* [cite_start]**Full-Stack Versatility**: Contributed to 40% of frontend development in professional LLM projects while managing backend operations[cite: 30].
+* **LLM Integration**: Built custom bot learning processes using **Django signals, Celery, and Pinecone**.
+* **Security Architecture**: Implemented **OAuth2 Proxy** and **Nginx** configurations to secure staging environments.
+* **Scalable Backends**: Developed backend systems for **Real-Time Strategy (RTS)** games, managing complex database schemas.
+* **Full-Stack Versatility**: Contributed to 40% of frontend development in professional LLM projects while managing backend operations.
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=radical&rank_icon=github" alt="ProAbdo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProAbdo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAbdo&layout=compact&theme=radical" />
 </p>
 
 ---
