@@ -2,7 +2,7 @@
 
 ### 🚀 Mid-Level Software Engineer | Backend Specialist | Competitive Programmer
 
-I am a **Software Engineer** with over **2 years of professional experience** building high-performance backend systems and AI-driven solutions. My expertise spans from architecting real-time strategy game backends to developing complex LLM-powered chatbot ecosystems.
+I am a **Software Engineer** with over **2 years of professional experience** building high-performance backend systems and AI-driven solutions. My expertise spans developing complex LLM-powered chatbot ecosystems.
 
 I am also a dedicated **Competitive Programmer**, having solved **2000+ problems** across various platforms and reaching the semi-finals of **Facebook Hacker Cup**. I specialize in Python and Node.js ecosystems, focusing on scalability, security, and clean architecture.
 
